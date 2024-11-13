@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 export default function News1() {
     return (
         <div className='glav_news'>
@@ -15,6 +17,8 @@ export default function News1() {
            Номер «птица» лауреат 2 степени <br/>
            Номер «погружение» лауреат 2 степени<br/>
            </p>
+           <br/>
+           <Link to='/' className='back'> {'<'}Назад</Link>
           </div>
         </div>
       )

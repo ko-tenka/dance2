@@ -1,4 +1,5 @@
 // import './Marina.css';
+import { Link } from 'react-router-dom';
 
 export default function Marina() {
   return (
@@ -13,6 +14,7 @@ export default function Marina() {
 Состаю в команде «СвободОбразное», cостояла в команде «ARTI FAM».<br/>
 Прошла курсы многих хореографов (Sonya Sobby, Аслан Мухамеджатов, Александра Рахматулина, Арина Радке и mg)<br/>
 Состояла в творческом объединении Александры</p>
+<Link to='/' className='back'> {'<'}Назад</Link>
       </div>
     </div>
   )
