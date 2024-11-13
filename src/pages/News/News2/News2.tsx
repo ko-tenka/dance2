@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function News1() {
     return (
         <div className='glav_news'>

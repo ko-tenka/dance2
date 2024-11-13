@@ -1,4 +1,3 @@
-import React from 'react'
 // import './Marina.css';
 
 export default function Marina() {

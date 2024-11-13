@@ -1,4 +1,3 @@
-import React from 'react'
 import './News1.css'
 
 export default function News1() {
