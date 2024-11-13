@@ -13,7 +13,7 @@ html {
   
 .glavnayaSFoto{
     height:1000px;
-    background-image: url('../../../public/glav.JPG');
+    background-image: url('../../../glav.JPG');
     background-size: cover; 
     background-position: center; 
     background-color: pink;
