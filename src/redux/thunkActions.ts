@@ -99,3 +99,4 @@
 //       console.log(error);
 //   }
 // })
+export const someThunkAction = () => { /* your thunk code */ };

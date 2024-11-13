@@ -1,6 +1,5 @@
-import React, { useEffect, useState } from 'react';
+import  { useState } from 'react';
 import './navbarglav.css';
-import { Color } from 'antd/es/color-picker';
 
 export default function Navbarglav() {
 

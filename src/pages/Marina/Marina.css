@@ -1,0 +1,61 @@
+.glav{
+    width: 100%;
+    height: 1000px;
+    background-color: brown;
+    
+}
+.zag{
+    padding-top: 150px;
+    padding-left: 150px;
+}
+.photoPro{
+    width: 450px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.opisanie{
+    margin-left: 40%;
+    margin-top: -450px;
+}
+.work{
+    font-size: 40px;
+}
+
+.text_marina{
+    margin-top: 20px;
+    width: 80%;
+}
+@media(max-width: 767px){
+    .glav{
+        height: 1500px;
+    }
+    .zag{
+        padding-top: 110px;
+        padding-left: 10px;
+        font-size: 40px;
+        text-align: center;
+    }
+    .photoPro{
+        width: 350px;
+        margin-left: 10%;
+        margin-top: 30px;
+    }
+    
+    .opisanie{
+        margin-left: 0%;
+        margin-top: 20px;
+     
+    }
+    .work{
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    .text_marina{
+        margin-top: 30px;
+        width: 90%;
+        margin-left: 10%;
+      
+    }
+}
